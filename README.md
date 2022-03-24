@@ -3,7 +3,11 @@
 - 🔭 I’m currently working on IoT systems - Design and development, Embedded systems, Electronics, PCB Design.
 - 🌱 Hands-on experience on different microcontrollers likes STM32, PIC, ARM LPC2148, Arduino, Atmel, Raspberry pi, Nvidia Jetson, etc.
 
+### Profile Status & Top Langs
 
+<img src="https://github-readme-stats.vercel.app/api?username=GaneshGGaikwad&show_icons=true&theme=synthwave" alt="GaneshGGaikwad :: Profile Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGGaikwad&langs_count=10&theme=tokyonight&layout=compact" alt="GaneshGGaikwad :: Top Langs" />
 
 
 ### 📫 &nbsp; How to reach me:
