@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on IoT systems - Design and development, Embedded systems, Electronics, PCB Design.
 - 🌱 Hands-on experience on different microcontrollers likes STM32, PIC, ARM LPC2148, ESP32, Arduino, Atmel, Raspberry pi, Nvidia Jetson, etc.
 - 💻 &nbsp;I'm working on IoT technologies like WSN, LoRA, RF, Wired Communication protocols, Wireless communication- MQTT, CoAP.
-- ⚡ &nbsp;;I'm always on track for imporving my programming skill sets and data structures...
-- ✍️ &nbsp;Working on different IoT platform- Thingsboard, ThingSpeak, Cayenne, Blynk, Adafruit.io, Google Firebase, ThingWorx, AWS, eNlight IoT.
+- ⚡ &nbsp;I'm always on track for imporving my programming skill sets and data structures...
+- ✍️ &nbsp;Working on different IoT platform- Thingsboard, Microsoft Azure, ThingSpeak, Cayenne, Blynk, Adafruit.io, Google Firebase, ThingWorx, AWS, eNlight IoT.
 - ⚡ &nbsp;In my free time, I travelled to forts, treck, play cricket, listen music and pursue new things.
 
 ### Profile Status & Top Langs
